@@ -45,6 +45,10 @@ justify-items: center;
 #post{
     padding: 1em;
 }
+.img{
+    width: 100%;
+    
+}
 .footer-container{
     text-align: center;
     background-color:rgb(2, 2, 2);
