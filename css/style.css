@@ -31,3 +31,7 @@ margin: 0 auto;
 #post{
     padding: 1em;
 }
+.footer-container{
+    text-align: center;
+    background-color:rgb(149, 149, 149);
+}
