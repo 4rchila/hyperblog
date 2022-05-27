@@ -47,5 +47,7 @@ justify-items: center;
 }
 .footer-container{
     text-align: center;
-    background-color:rgb(149, 149, 149);
+    background-color:rgb(2, 2, 2);
+    padding:6px;
+    color: rgb(16, 16, 108);
 }
