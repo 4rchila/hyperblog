@@ -17,5 +17,6 @@ blog para el curso de Git y Github
 
 >hecho con empeño y exfuerzo
 >la mejor practica que e hecho
+>atractivo para todos
 
 >esta medio raro igual lo dejo (2.5 podria ser mejor )
