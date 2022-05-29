@@ -16,5 +16,7 @@ blog para el curso de Git y Github
 *llase en mi mente una emocion , aquel nuevo pensamiento surge , junto con algo de frustracion, es hermoso no (me digo a mi mismo) aquellas lagrimas derramadas ,lagrimas de felicidad por aquella tarea completada, con un debuggin y algunos push and pull, hermosa emocion mia que llase de aquel codigo que supera limites de imaginacion y me enbriaga con euforia el pensar que algo nuevo vendra*
 
 >hecho con empeño y exfuerzo
+>la mejor practica que e hecho
+>atractivo para todos
 
 >esta medio raro igual lo dejo (2.5 podria ser mejor )
