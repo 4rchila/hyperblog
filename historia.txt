@@ -8,10 +8,6 @@ mi meta es ser mi mejor version,y ser como mis modelos a se
 
 experimento 1
 
-<<<<<<< HEAD
 main2
-=======
-experimento 2
->>>>>>> d2bca3d (exp 2)
 
 mi seudonimo es 1kar1
